@@ -1,11 +1,14 @@
 # Binance Smart Chain Binary
 
-> binaries and files for binance smart chain before the codebase is open-sourced
+::: WARNING: BSC fullnode and Relayers has mostly stabilized, but we are still making some breaking changes.
 
-WARNING: BSC has mostly stabilized, but we are still making some breaking changes.
+### Install prebuilt bc fullnode and cli
+
+
 
 ### Install prebuilt bsc-relayer
 
 We host prebuilt binaries over at our [release page].
 
 From there:
+
