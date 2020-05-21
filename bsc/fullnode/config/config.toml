@@ -61,12 +61,12 @@ InsecureUnlockAllowed = false
 NoUSB = true
 IPCPath = "geth.ipc"
 HTTPHost = "127.0.0.1"
-HTTPPort = 8545
+HTTPPort = 8575
 HTTPVirtualHosts = ["*"]
 HTTPModules = ["eth", "net", "web3", "txpool", "parlia"]
-WSPort = 8546
+WSPort = 8576
 WSModules = ["net", "web3", "eth"]
-GraphQLPort = 8557
+GraphQLPort = 8577
 GraphQLVirtualHosts = ["*"]
 
 [Node.P2P]
