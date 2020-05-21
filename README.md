@@ -1,10 +1,10 @@
 # Binance Smart Chain Binary
 
-::: WARNING: BSC fullnode and Relayers has mostly stabilized, but we are still making some breaking changes.
+:warning:BSC fullnode and Relayers has mostly stabilized, but we are still making some breaking changes.
 
 [Binance Smart Chain](https://www.binance.org/en/smartChain)(BSC) brings the interoperability and programmability of the Ethereum Virtual Machine (EVM) to Binance Chain. While Binance DEX will remain as the major liquidity pool, BSC envisions a rich dApp ecosystem running on it and having tokens flow between two chains, with relatively lower transaction fees and faster confirmation time.
 
-[Rialto Network](https://explorer.binance.org/smart-testnet) is the first try to run in parallel with a new[ Binance Chain Testnet](https://explorer.binance.org/testnet) (Chain-id: Binance-Chain-Kongo) providing the concrete inter-communication capability. To join the previous testnet, please go to this [page](https://github.com/binance-chain/node-binary)
+[Rialto Network](https://explorer.binance.org/smart-testnet):rocket: is the first try to run in parallel with a new[ Binance Chain Testnet](https://explorer.binance.org/testnet) (Chain-id: Binance-Chain-Kongo) providing the concrete inter-communication capability. To join the previous testnet, please go to this [page](https://github.com/binance-chain/node-binary)
 
 ### Install prebuilt bc fullnode and cli
 
@@ -15,8 +15,8 @@ To learn how to run a fullnode and use command line interface:
 
 The new version of Binance Chain binaries have the following new features:
 
-* [Staking commands](http://docs.binance.org/guides/concepts/bc-staking.html)
-* [Slashing commands](http://docs.binance.org/guides/concepts/bc-slashing.html)
+* :bank:[Staking commands](http://docs.binance.org/guides/concepts/bc-staking.html) 
+* :rotating_light:[Slashing commands](http://docs.binance.org/guides/concepts/bc-slashing.html)
 
 ### Install bsc fullnode
 
@@ -36,7 +36,7 @@ To learn about how to use bsc-relayer, read the guide [here](http://docs.binance
 
 You also  need to have [genesis.json](https://github.com/binance-chain/smart-chain-binary/blob/pre-release/bsc/fullnode/config/genesis.json) and [config.toml](https://github.com/binance-chain/smart-chain-binary/blob/pre-release/bsc/fullnode/config/config.toml)
 
-### Install bsc-relayer
+### Install bsc-relayer :package:
 
 We host prebuilt binaries over at our [repositories](https://github.com/binance-chain/smart-chain-binary/tree/pre-release/bsc/relayer).
 
@@ -55,5 +55,5 @@ To learn about how to use bsc-relayer, read the guide [here](http://docs.binance
 
 ## Resrouces
 
-- [Dos Site](https://docs.binance.org/)
+- [Dos Site](https://docs.binance.org/) :ledger:
 - [White Paper](https://github.com/binance-chain/whitepaper/blob/master/WHITEPAPER.mdl)
