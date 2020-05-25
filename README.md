@@ -1,5 +1,8 @@
 # Binance Smart Chain Binary
 
+## Disclaimer
+**The software and related documentation are under active development, all subject to potential future change without notification and not ready for production use. The code and security audit have not been fully completed and not ready for any bug bounty.**
+
 :warning:BSC fullnode and Relayers has mostly stabilized, but we are still making some breaking changes.
 
 [Binance Smart Chain](https://www.binance.org/en/smartChain)(BSC) brings the interoperability and programmability of the Ethereum Virtual Machine (EVM) to Binance Chain. While Binance DEX will remain as the major liquidity pool, BSC envisions a rich dApp ecosystem running on it and having tokens flow between two chains, with relatively lower transaction fees and faster confirmation time.
